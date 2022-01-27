@@ -48,3 +48,5 @@ if (T>R) and (R>P) and (P>S): print("Woah, it looks like this game is a PERFECT 
 elif (T>R) and (R>P) and (P>=S): print("Woah, it looks like this game is a AMBIGUOUS CASE of Prisoner's Dillema :O") # In Ambiguous case T>R>P>=S
 elif (T>=R) and (R>P) and (P>S): print("Woah, it looks like this game is a AMBIGUOUS CASE of Prisoner's Dillema :O") # Another Ambiguous case is where T>=R>P>S
 else: print("Uh oh, it looks like this game is a WRONG CASE of Prisoner's Dillema :(")
+
+# END OF CODE
