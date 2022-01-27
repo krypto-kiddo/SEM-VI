@@ -1,5 +1,5 @@
 # Code by Krypto Kiddo
-
+# Subject: TC04 - Game Theory
 # Aim : To make a Prisoner’s Dilemma generator that can detect whether a given payoff matrix makes the game a perfect, ambiguous or a wrong case of Prisoner’s Dilemma game. 
 
 # Reference: https://plato.stanford.edu/entries/prisoner-dilemma/
