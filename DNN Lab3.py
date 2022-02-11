@@ -3,7 +3,7 @@
 # Aim: Understanding Data Pipelines in Tensorflow 2.0
 
 # Reference and Guidance: https://www.tensorflow.org/datasets/keras_example
-
+# Teacher's provided reference: https://medium.com/@karanaryan/a-beginners-guide-to-data-pipelines-in-tensorflow-2-0-a291535bd5c3
 
 # IMPORTS
 # Importing what's needed dude.
