@@ -2,7 +2,6 @@
 
 ## Development
 
-**Check _Contributing_ section below before you start submit new features**
 
 #### Prerequsites
 
