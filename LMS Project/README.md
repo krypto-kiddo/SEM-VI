@@ -1,4 +1,4 @@
-# Codecool Management System
+# Moodle Alternative, SEM VI
 
 ## Development
 
